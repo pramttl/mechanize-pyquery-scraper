@@ -1,7 +1,7 @@
-A web scrapper built using mechnaize, pyquery to extract content from sulekha.com containing information about Indian Restaurants in Chicago.
-(Yeah that's one of my favourite city, but I still want Indian food when I am there) :)
+A web scrapper built using mechnaize & pyquery to extract content from sulekha.com containing information about Indian Restaurants in Chicago.
+Yeah, I am a "fan" of the "windy city", but I still like the Indian cuisine; so I will make myself an excel file with an exhaustive restaurant list 
+of Indian restaurants in Chicago the cool and simple way.
 
-- mechnize used as a web browser emulator to fetch data
+- mechanize used as a web browser emulator to fetch data
 - pyquery used to parse a page and extract relevant content
 - xlwt is used to write into an excel file
-- pygeocoder to convert an address into a latitude and longitude
